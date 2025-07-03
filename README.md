@@ -1,7 +1,7 @@
 # AtliQ Mart Supply Chain Analysis
 As part of the code basics resume challenge, I have performed data analysis and designed a dashboard in Power BI
 
-Challenge [Link](https://codebasics.io/event/codebasics-resume-project-challenge)
+Challenge [Link](https://codebasics.io/challenges/codebasics-resume-project-challenge/5)
 
 Live Dashboard [Link](https://app.powerbi.com/view?r=eyJrIjoiZmExMWZlYzItYjZmYi00MzkxLTk4OTYtNzE3ZjkzY2M1ODg5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true&pageName=ReportSectionbb73b81a4bcbda5959b7)
 
